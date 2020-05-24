@@ -1,0 +1,6 @@
+{
+List list1
+List list1
+Element e1 = "privet"
+Add(list1, e1)
+}

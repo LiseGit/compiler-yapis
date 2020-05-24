@@ -1,0 +1,16 @@
+{
+Print("program6")
+Element el1 = "element1"
+Element el2 = "element2"
+List s
+Add(s, el1)
+Add(s, el2)
+func1(el1, el2)
+}
+Void func1(Element el1, Element el2) {
+If(el1==el2){
+Print("Nothing")
+}Else{
+Print("User function complete")
+}
+}
